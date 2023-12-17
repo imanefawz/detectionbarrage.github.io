@@ -1,0 +1,23 @@
+ENVI
+description = {
+  Neural Net Classification [Fri Dec 15 09:21:28 2023]}
+samples = 842
+lines   = 1070
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 5
+class lookup = {
+   0,   0,   0,   0, 255,   0,   0,   0, 255, 255, 255,   0, 255,   0,   0}
+class names = {
+ Unclassified, Vegetation [Green] 4760 points, Eau [Blue] 13443 points, 
+ sol nu [Yellow] 4787 points, bati [Red] 2934 points}
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, -6.79800299, 33.98103978, 2.0435000000e-004, 1.6976000000e-004, WGS-84, units=Degrees}
+coordinate system string = {GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+wavelength units = Unknown
+band names = {
+ Neural Net (IMAGE_DE_TRAVAIL.tif)}
